@@ -8,5 +8,5 @@ You can get it from the [Microsoft Edge Marketplace](https://bit.ly/AzColorizer)
 
 # Important things to know.
 
-- AzColorizer does not transit any information back to the developers or any other parties.
 - AzColorizer currently does not support syncronizing settings between browers instances of the users, all settings are stored locally in the browser.
+- AzColorizer _while in priview_ does not transit any information back to the developers or any other parties, if/when that changes it will be communicated here.    
