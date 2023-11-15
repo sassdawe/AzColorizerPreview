@@ -6,7 +6,8 @@ I hope this project will help you out in that matter!
 
 AzColorizer is here to give you the ability to change the color of the top navigational bar giving you a bit of help on the job:
 
-![Animation-w-switch-fix](https://github.com/sassdawe/AzColorizerPreview/assets/10754765/e79b491e-8294-42b3-b77b-21f6843ff0fc)
+![Animation](https://github.com/sassdawe/AzColorizerPreview/assets/10754765/f33239fa-65e3-4eb2-bd6a-e12df3d390fa)
+
 
 You can get it from the [Microsoft Edge Marketplace](https://bit.ly/AzColorizer)
 
