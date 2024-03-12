@@ -10,7 +10,9 @@ AzColorizer is here to give you the ability to change the color of the top navig
 
 With the most recent update `v2.0.0` you can set dedicated colors for up to 4 different Azure subscriptions:
 
-[![Watch the demo](https://github.com/sassdawe/AzColorizerPreview/assets/10754765/72e339c1-1732-4651-b990-22610d727c59)](https://vimeo.com/918365035)
+
+https://github.com/sassdawe/AzColorizerPreview/assets/10754765/9adcae5a-d120-4315-9332-ef7ab9b5e16f
+
 
 You can get the Extension from the [Microsoft Edge Marketplace](https://bit.ly/AzColorizer) for Microsoft Edge.
 
