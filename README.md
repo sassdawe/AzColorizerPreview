@@ -40,3 +40,5 @@ On the extension's popup page the **Subscription settings** tab can be used to s
 
 - AzColorizer currently does not support syncronizing settings between browers instances of the users, all settings are stored locally in the browser.
 - AzColorizer _while in preview_ does not transit any information back to the developers or any other parties, if/when that changes it will be communicated here.    
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsassdawe%2FAzColorizerPreview&countColor=%23263759)
