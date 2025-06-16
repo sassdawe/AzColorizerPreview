@@ -16,7 +16,7 @@ https://github.com/sassdawe/AzColorizerPreview/assets/10754765/9adcae5a-d120-431
 
 You can get the Extension from the [Microsoft Edge Marketplace](https://bit.ly/AzColorizer) for Microsoft Edge.
 
-You can get the Extension from the [Google Chrome Marketplace](https://bit.ly/AzColorizer) for Google Chrome.
+You can get the Extension from the [Google Chrome Marketplace](https://bit.ly/AzColorizerChrome) for Google Chrome.
 
 > The Firefox version is still in the making.
 
