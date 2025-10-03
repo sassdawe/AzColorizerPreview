@@ -22,7 +22,7 @@ You can get the Extension from the [Google Chrome Marketplace](https://bit.ly/Az
 
 ## Precedence of color settings  
 
-Colors have a precedence order in which they get applied, for example when a color is set for a subscription that will be used, but when there is no match for the subscription the resource color will beused. 
+Colors have a precedence order in which they get applied, for example when a color is set for a subscription that will be used, but when there is no match for the subscription the resource color will be used. 
 
 The precedence order is the following:
 
